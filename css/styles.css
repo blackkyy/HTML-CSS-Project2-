@@ -1,0 +1,123 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  color: #1eae98;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0;
+}
+
+h2 {
+  font-weight: normal;
+  color: #1eae98;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: gray;
+  border-width: 5px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 550;
+}
+
+.BUTTON_EQQ {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  color: #FFFFFF;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 25px;
+  background-color: #1EAE98;
+  border: solid #FFFFFF 2px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.Elon {
+  width: 180px;
+  height: 180px;
+  margin-top: 100px;
+}
+
+.p1 {
+  margin: 30px auto;
+  width: 45%;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-bottom: 75px;
+}
+
+.bottom-container {
+  position: relative;
+  padding: 25px;
+  background-color: #66bfbf;
+  color: #eaf6f6;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.comp {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  color: #11999e;
+}
+
+.footer-link {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 20px 15px 20px 15px;
+}
